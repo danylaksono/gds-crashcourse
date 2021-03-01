@@ -21,7 +21,7 @@ Pembagian materi ini adalah sebagai berikut. Klik pada link yang tersedia untuk 
 - Praktek Geospatial Data Science dengan Python [(Video)](https://youtu.be/-f8lZG44WXE)
 
 **Minggu 2: Machine Learning** [(Slide)](https://github.com/danylaksono/gds-crashcourse/blob/main/Slides/Hari%202.%20Machine%20Learning.pptx) [(Panduan Latihan)](https://colab.research.google.com/github/danylaksono/gds-crashcourse/blob/main/Minggu%202%20-%20Machine%20Learning%20untuk%20Aplikasi%20Geospasial.ipynb)
-- Machine Learning untuk Analisis Geospasial [(Video)] (https://youtu.be/9K0vN7x2mgU)
+- Machine Learning untuk Analisis Geospasial [(Video)](https://youtu.be/9K0vN7x2mgU)
 - Praktek Machine Learning untuk Analisis Geospasial (Video not available yet) 
 
 **Minggu 3: Deep Learning** [(Slide)](https://github.com/danylaksono/gds-crashcourse/blob/main/Slides/Hari%202.%20Machine%20Learning.pptx) [(Panduan Latihan 1)](https://colab.research.google.com/github/danylaksono/gds-crashcourse/blob/main/Minggu%203.1%20-%20Konsep%20Dasar%20Regresi%20dan%20Deep%20Learning.ipynb) [(Panduan Latihan 2)](https://colab.research.google.com/github/danylaksono/gds-crashcourse/blob/main/Minggu%203.2%20-%20Deep%20Learning%20untuk%20aplikasi%20Geospasial.ipynb) [(Panduan Latihan 3)](https://colab.research.google.com/github/danylaksono/gds-crashcourse/blob/main/Minggu%203.3%20-%20Transfer%20Learning%20dengan%20Pre-trained%20Model.ipynb)
