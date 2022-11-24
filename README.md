@@ -31,6 +31,11 @@ Pembagian materi ini adalah sebagai berikut. Klik pada link yang tersedia untuk 
 Seluruh video di atas juga dapat diakses melalui [Playlist Youtube berikut](https://youtube.com/playlist?list=PLKQ640mmnxQ85Qz1ONU34nUC7We_xwYSE)
 
 
+## Update
+Berikut adalah tambahan mengenai segmentasi bangunan dengan Deep Learning. Materi ini disampaikan sebagai bagian dari tutor singkat mata kuliah pemrograman spasial di Departemen Teknik Geodesi UGM pada 22 November 2022:
+- [Segmentasi Bangunan dari Citra dengan Pre-trained Model](https://colab.research.google.com/github/danylaksono/gds-crashcourse/blob/main/Segmentasi_Bangunan_dari_Citra_dengan_Pre_trained_Model.ipynb)
+
+
 ## Lisensi
 	
 Panduan pada repository ini berikut semua konten di dalamnya memiliki [Lisensi MIT](https://opensource.org/licenses/MIT)
